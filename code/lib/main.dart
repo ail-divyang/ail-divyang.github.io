@@ -116,7 +116,7 @@ class ExampleParallax extends StatelessWidget {
                                 : 10,
                           ),
                           Text(
-                            'Software Developer @ Techavidus',
+                            'Sr. Software Engineer @ Arishti Info Labs',
                             style: TextStyle(
                                 fontSize:
                                     MediaQuery.of(context).size.width < 600
