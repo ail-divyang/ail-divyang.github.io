@@ -138,9 +138,7 @@ function falseValue(value){
 function createText(text, classname){
   const p = document.createElement("p");
   
-  p.innerHTML =
-  text
-  ;
+  p.innerHTML = text;
   app.appendChild(p);
 }
 
